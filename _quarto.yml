@@ -7,8 +7,8 @@ execute:
 
 website:
   title: "Statistical Visualisations"
-  site-url: https://stat-viz.github.io
-  repo-url: https://github.com/stat-viz/stat-viz.github.io
+  site-url: https://play-in-stats.github.io
+  repo-url: https://github.com/play-in-stats/play-in-stats.github.io
   image: images/logo.png
   favicon: images/favicon.ico
   navbar:
